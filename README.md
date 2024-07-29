@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about web development, open source,
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shreelakshmi-pai-a14113256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-![Connecting GIF](URL_to_connecting_gif)
+![Connecting GIF](https://i.pinimg.com/originals/fa/6a/a8/fa6aa8b9f02691e42df56f1678e795fc.gif)
 
 
 
