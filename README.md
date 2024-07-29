@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about web development, open source,
 - 📫 How to reach me: shreelakshmipai04@gmail.com
 - 😄 Pronouns: She/Her.
 
-![Coding GIF][(URL_to_coding_gif](https://th.bing.com/th/id/OIP.AvTfP9ZMKMT9s6_wvSpoFQAAAA?rs=1&pid=ImgDetMain))
+![Coding GIF][(https://th.bing.com/th/id/OIP.AvTfP9ZMKMT9s6_wvSpoFQAAAA?rs=1&pid=ImgDetMain)]
 
 ## 🛠️ Technologies & Tools
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm passionate about web development, open source,
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shreelakshmi-pai-a14113256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shreelakshmi-pai-a14113256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ![Connecting GIF](URL_to_connecting_gif)
 
