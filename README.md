@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about web development, open source,
 - 📫 How to reach me: shreelakshmipai04@gmail.com
 - 😄 Pronouns: She/Her.
 
-![Coding GIF][(https://th.bing.com/th/id/OIP.AvTfP9ZMKMT9s6_wvSpoFQAAAA?rs=1&pid=ImgDetMain)]
+![Coding GIF](https://th.bing.com/th/id/OIP.AvTfP9ZMKMT9s6_wvSpoFQAAAA?rs=1&pid=ImgDetMain)
 
 ## 🛠️ Technologies & Tools
 
