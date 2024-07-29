@@ -1,6 +1,6 @@
 # Hi there, I'm Shreelakshmi Pai 👋
 
-Welcome to my GitHub profile! I'm passionate about web development, open source,etc. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a student and passionate about web development, open source,etc. Here's a little bit about me:
 
 ## 🚀 About Me
 
@@ -9,8 +9,6 @@ Welcome to my GitHub profile! I'm passionate about web development, open source,
 - 💬 Ask me about React, Node.js, CSS, etc.
 - 📫 How to reach me: shreelakshmipai04@gmail.com
 - 😄 Pronouns: She/Her.
-
-![Coding GIF](https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif)
 
 ## 🛠️ Technologies & Tools
 
@@ -28,8 +26,6 @@ Welcome to my GitHub profile! I'm passionate about web development, open source,
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shreelakshmi-pai-a14113256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-![Connecting GIF](https://i.pinimg.com/originals/fa/6a/a8/fa6aa8b9f02691e42df56f1678e795fc.gif)
 
 
 
