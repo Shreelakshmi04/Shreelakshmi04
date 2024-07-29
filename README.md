@@ -1,19 +1,14 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Shreelakshmi Pai 👋
 
-![Profile Banner](URL_to_your_banner_image)
-
-Welcome to my GitHub profile! I'm passionate about [your interests, e.g., web development, open source, AI, etc.]. Here's a little bit about me:
+Welcome to my GitHub profile! I'm passionate about web development, open source,etc. Here's a little bit about me:
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [your project, e.g., a React admin registration page with styled components and theming].
-- 🌱 I’m learning [new technologies, e.g., TypeScript, GraphQL, etc.].
-- 👯 I’m looking to collaborate on [open source projects, web applications, etc.].
-- 🤔 I’m looking for help with [specific challenges or projects].
-- 💬 Ask me about [your expertise, e.g., React, Node.js, CSS, etc.].
-- 📫 How to reach me: [your email address or social media profiles].
-- 😄 Pronouns: [your pronouns, e.g., He/Him, She/Her, They/Them].
-- ⚡ Fun fact: [a fun fact about you].
+- 🔭 I’m currently working on a React admin registration page with styled components and theming.
+- 🌱 I’m learning MERN Stack with Bootstrap.
+- 💬 Ask me about React, Node.js, CSS, etc.
+- 📫 How to reach me: shreelakshmipai04@gmail.com
+- 😄 Pronouns: She/Her.
 
 ![Coding GIF](URL_to_coding_gif)
 
@@ -34,14 +29,6 @@ Welcome to my GitHub profile! I'm passionate about [your interests, e.g., web de
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your latest blog post title](URL_to_blog_post)
-- [Another blog post title](URL_to_blog_post)
-<!-- BLOG-POST-LIST:END -->
-
-![Blogging GIF](URL_to_blogging_gif)
 
 ## 📫 Connect with Me
 
@@ -51,12 +38,6 @@ Welcome to my GitHub profile! I'm passionate about [your interests, e.g., web de
 
 ![Connecting GIF](URL_to_connecting_gif)
 
-## 🎨 Projects
 
-- [Project 1](URL_to_project): Brief description of the project.
-- [Project 2](URL_to_project): Brief description of the project.
-- [Project 3](URL_to_project): Brief description of the project.
-
-![Projects GIF](URL_to_projects_gif)
 
 Thanks for visiting my profile! 😊
