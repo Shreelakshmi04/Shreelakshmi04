@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about web development, open source,
 - 📫 How to reach me: shreelakshmipai04@gmail.com
 - 😄 Pronouns: She/Her.
 
-![Coding GIF](URL_to_coding_gif)
+![Coding GIF][(URL_to_coding_gif](https://th.bing.com/th/id/OIP.AvTfP9ZMKMT9s6_wvSpoFQAAAA?rs=1&pid=ImgDetMain))
 
 ## 🛠️ Technologies & Tools
 
@@ -24,17 +24,10 @@ Welcome to my GitHub profile! I'm passionate about web development, open source,
 
 ![Tech GIF](URL_to_tech_gif)
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourtwitterprofile)
-[![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=Google-Chrome&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shreelakshmi-pai-a14113256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ![Connecting GIF](URL_to_connecting_gif)
 
