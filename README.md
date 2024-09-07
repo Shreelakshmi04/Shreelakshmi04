@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a student and passionate about web development
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
-![Tech GIF](https://th.bing.com/th/id/OIP.AvTfP9ZMKMT9s6_wvSpoFQAAAA?rs=1&pid=ImgDetMain)
+
 
 
 ## 📫 Connect with Me
